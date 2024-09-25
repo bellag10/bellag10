@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellag10
-- 👀 I’m interested in working out and AI!
-- 🌱 I’m currently learning how to code in python, soon to be Java?
+- 👀 I’m interested in, programming, working out, and AI!
+- 🌱 I’m currently learning how to code in Java. Minimal experience in Python. 
 - 💞️ I’m looking to collaborate on ... NA
 - 📫 How to reach me ... NA
 
